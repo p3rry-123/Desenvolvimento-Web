@@ -1,0 +1,25 @@
+                                    referencia 
+Python é uma linguagem simples e legível.
+É muito usada em muitas áreas porque é fácil de aprender e há muitas bibliotecas disponíveis.
+
+pagina de referencia:
+https://github.com/python
+
+VSCode é um editor de código da Microsoft,
+utilizado por desenvolvedores por sua interface intuitiva e extensível. 
+Oferece recursos como realce de sintaxe, 
+conclusão de código e depuração, além de suportar várias linguagens de programação.
+É personalizável através de extensões.
+
+pagina de referencia :
+https://github.com/microsoft/vscode
+
+Git é um sistema de controle de revisão de código aberto maduro e mantido em funcionamento.
+pagina de referencia : 
+https://victor0machado.github.io/assets/curso_git.pdf
+
+SQLiteBrowser é uma ferramenta gratuita que permite visualizar,
+editar e gerenciar bancos de dados SQLite de forma fácil e intuitiva.
+
+pagina de referencia : 
+https://sqlitebrowser.org/
