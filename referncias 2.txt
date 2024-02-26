@@ -1,4 +1,10 @@
                                     referencia 
+aluno: Tiago abdalla ramos 
+periodo: 1° periodo 
+nome da diciplina : desenvolvimento web 
+ano : 2024
+
+
 Python é uma linguagem simples e legível.
 É muito usada em muitas áreas porque é fácil de aprender e há muitas bibliotecas disponíveis.
 
