@@ -1,0 +1,29 @@
+h1{
+    color:chocolate;
+    font-size: 50px;
+
+}
+body{
+    font-family: "Mochiy Pop P One", sans-serif;  
+
+}
+#div1{
+    background-color: chocolate;
+    min-width: 75px;
+}
+#div2{
+    min-width:3rem;
+}
+span{
+    background-color: aqua;
+    color: red;
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-size: 15px;
+}
+p{
+    font-family: "Nanum Myeongjo", serif;
+    color: black;
+    background-color: chocolate;
+   min-height: 5px;
+   width: 25ch;
+}
