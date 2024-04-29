@@ -1,0 +1,28 @@
+#container {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: goldenrod;
+    gap: .3rem;
+    padding: .3rem;
+    grid-template-rows: repeat(18, 5rem) ;
+    
+}
+ 
+#item1, #item3, #item5 ,#item7, #item9, #item11, #item13, #item15, #item17 
+
+#container > div {
+    background-color:white ;
+    height: 15rem;
+    font: bold;
+    padding: .3rem ;
+    font-family: sans-serif;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (min-width: 1800px) {
+    #container {
+      grid-template-columns: auto auto auto auto ;
+      grid-template-rows: repeat(4,5rem);
+    }
+  }
